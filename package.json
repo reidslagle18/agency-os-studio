@@ -1,0 +1,9 @@
+{
+  "name": "agency-os-studio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {"build": "vite build", "test": "node --test tests/*.test.js"},
+  "dependencies": {"@radix-ui/themes": "^3.2.1", "@phosphor-icons/react": "^2.1.10", "@fontsource-variable/dm-sans": "^5.2.8", "react": "^19.0.0", "react-dom": "^19.0.0"},
+  "devDependencies": {"vite": "^6.4.1"}
+}

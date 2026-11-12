@@ -1,5 +1,7 @@
 # Agency OS Studio
 
-A working creative operations studio for cannabis branding: clients, independent product-line guides, product variants, production briefs, market review and assets.
+Working single-user cannabis creative operations studio. Manage clients, independent product-line identities, related variants, versioned production briefs, market-review evidence and images.
 
-Initial setup in progress. No paid service is required for the workspace and offline brief compiler. Live AI generation and legal research require explicitly configured providers.
+The brief compiler works without paid services. Optional research and artwork adapters are disconnected until configured. Records live in the browser; export backups regularly. See STUDIO-GUIDE.md for operation, setup and limitations.
+
+Development: pnpm install, pnpm test, pnpm build. Deploy and verify on Vercel; no local server.
